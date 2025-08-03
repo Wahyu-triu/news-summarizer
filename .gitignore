@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+.env
+*.sqlite3
+*.db
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Mac & Windows
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/config.toml
+
+# env or local file
+.env
+notebook.ipynb
+*.xlsx
+*.txt
+test*
+api/
+ui-streamlit/
+
+# In progress
+airflow/
