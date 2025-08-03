@@ -28,6 +28,7 @@ notebook.ipynb
 test*
 api/
 ui-streamlit/
+scrath.md
 
 # In progress
 airflow/
