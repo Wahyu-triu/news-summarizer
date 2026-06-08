@@ -33,6 +33,10 @@ scrath.md
 *.JPG
 *.jpg
 *.png
+./cred/
+*event-sraper
+*.json
+./donwloaded_files/
 
 # In progress
 airflow/
