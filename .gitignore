@@ -33,7 +33,7 @@ scrath.md
 *.JPG
 *.jpg
 *.png
-./cred/
+scrapers/cred/
 *event-sraper
 *.json
 ./donwloaded_files/
