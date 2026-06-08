@@ -29,6 +29,10 @@ test*
 api/
 ui-streamlit/
 scrath.md
+*.PNG
+*.JPG
+*.jpg
+*.png
 
 # In progress
 airflow/
